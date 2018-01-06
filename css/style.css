@@ -1,0 +1,9 @@
+@charset "utf-8";
+/* CSS Document */
+.zhanqu {
+	position: relative;
+	
+}
+.zhanqu section img {
+	width: 100%;
+}
